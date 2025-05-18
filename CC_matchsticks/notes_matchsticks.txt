@@ -1,0 +1,4 @@
+1. Sparse table for minimum range query
+2. Sparse table for maximum range query
+2. Calculate time for max matchstick in [L,R]: b_min + (b_max - b_min)/2 
+3. Calculate time for max matchsticks in [0,L-1], [R,N-1]: b_min + b_max
